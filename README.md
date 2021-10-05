@@ -20,7 +20,7 @@ It will stop and display the total number of vote for each candidate if the user
 The PHP readline() function is very similar to the JS prompt().
 
 Giving a string argument, it will display the string and wait for the user to type something.
-The user input will be returned.
+The user's input will be returned.
 
 Example :
 
